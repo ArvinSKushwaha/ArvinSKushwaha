@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Arvin Kushwaha!
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on using Machine Learning techniques to accelerate Plasma Simulation through Super-Resolution.
 - 🌱 I’m currently learning Golang! It's actually really neat and I highly recommend checking it out!
 - 👯 I’m looking to collaborate on literally any machine learning project. I love Machine Learning and I'd totally love to help out anywhere I can!
