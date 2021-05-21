@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with molecular dynamics. I've been meaning to write a computational chemistry/physics engine for fun, and I'd love some help with the physics of it.
 - 💬 Ask me about musicals! I know GitHub is primarily for code and whatnot, but if you have suggestions for musicals, or just want to chill and discuss music, feel free to DM me!
 - 📫 How to reach me: 
-  - Email: arvin.singh.kushwaha@ncssm.edu
+  - Email: arvin.singh.kushwaha@gmail.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can ramble on for hours on science (so it's best not to set the metaphorical ball rolling)
