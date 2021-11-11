@@ -7,7 +7,7 @@
 - 💬 Ask me about musicals! I know GitHub is primarily for code and whatnot, but if you have suggestions for musicals, or just want to chill and discuss music, feel free to DM me!
 - 📫 How to reach me: 
   - Email: arvin.singh.kushwaha@gmail.com
-- 😄 Pronouns: He/They
+- 😄 Pronouns: They/He
 - ⚡ Fun fact: I can ramble on for hours on science (so it's best not to set the metaphorical ball rolling)
 
 *Note: Most Used Languages does not indicate the languages I am most skilled at, but is only a GitHub metric of which languages I have written the most code in on GitHub.*
