@@ -15,6 +15,6 @@
 
 *Note: Most Used Languages does not indicate the languages I am most skilled at, but is only a GitHub metric of which languages I have written the most code in on GitHub.*
 
-[![Arvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArvinSKushwaha&count_private=true&show_icons=true&bg_color=30,a96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/ArvinSKushwaha)
+[![Arvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArvinSKushwaha&count_private=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/ArvinSKushwaha)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ArvinSKushwaha&bg_color=30,a96443,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact&langs_count=10)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ArvinSKushwaha&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact&langs_count=10)
